@@ -10,24 +10,20 @@
 </head>
 
 <body>
-    <header>
-       <b><h1>Analisador de Números</h1></b> 
-
-    </header>
-
     <section>
-        <div>
-            Número (entre 1 e 100):
-            <input type="number" name="fnum" id="fnum">
-            <input type="button" value="adicionar" onclick="adicionar()">
-            <br> <br> <select name="flista" id="flista" size="6"></select>
-            <br> <input type="button" value="finalizar" onclick="finalizar()">
+        <h1>Analisador de Números</h1>
+        <div class="conteudo">
+            <div>
+                Número (entre 1 e 100):
+                <input type="number" name="fnum" id="fnum">
+                <input type="button" value="adicionar" onclick="adicionar()">
+                <br> <br> <select name="flista" id="flista" size="6"></select>
+                <br> <input type="button" value="finalizar" onclick="finalizar()">
             </div>
+            <div id=res></div>
 
-
-            <div  id=res>
-              
-            </div>
+        </div>
+        </div>
 
     </section>
 
