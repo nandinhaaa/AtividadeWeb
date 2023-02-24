@@ -17,4 +17,4 @@ function Tabuada() {
             cont++
         }
     }
-}
+} 
