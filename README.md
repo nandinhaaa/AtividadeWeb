@@ -2,7 +2,7 @@
 
 ## Exercicio 1 - Horas do Dia
 ![image](https://github.com/nandinhaaa/AtividadeWeb/assets/91507393/90e9023f-afbe-4154-b625-0916d2869571)
-URL: para acessar no gitHubPages: https://nandinhaaa.github.io/Hora_dia/modelo.html
+URL: para acessar no gitHubPages: https://nandinhaaa.github.io/Hora_dia/atividade1/modelo.html
 
 ## Exercicio 2 - Super Contador
 ![image](https://github.com/nandinhaaa/AtividadeWeb/assets/91507393/ace8d07a-bd74-4734-a6f8-d1ac11ae54c9)
